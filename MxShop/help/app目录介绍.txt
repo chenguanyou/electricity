@@ -1,0 +1,7 @@
+apps ————》app项目
+extra_apps ————》 第三方app库
+
+apps ————》goods ————》商品信息App
+apps ————》trade ————》交易信息App
+apps ————》user_operation ————》用户操作信息App
+apps ————》users ————》用户信息App
